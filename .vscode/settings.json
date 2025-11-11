@@ -1,0 +1,13 @@
+{
+    "clangd.fallbackFlags": [
+        "-I${workspaceFolder}/WRK-v1.2/base/inc/",
+        "-I${workspaceFolder}/WRK-v1.2/base/ntos/inc/",
+        "-I${workspaceFolder}/WRK-v1.2/public/ddk/inc/",
+        "-I${workspaceFolder}/WRK-v1.2/public/halkit/inc",
+        "-I${workspaceFolder}/WRK-v1.2/public/internal/base/inc",
+        "-I${workspaceFolder}/WRK-v1.2/public/internal/ds/inc",
+        "-I${workspaceFolder}/WRK-v1.2/public/internal/sdktools/inc",
+        "-I${workspaceFolder}/WRK-v1.2/public/sdk/inc",
+        "-I${workspaceFolder}/WRK-v1.2/public/sdk/inc/crt"
+	]
+}
